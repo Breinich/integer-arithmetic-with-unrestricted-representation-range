@@ -1,6 +1,6 @@
 # Integer arithmetic with unrestricted representation range
 ----
-## [The basics of programming 1](https://portal.vik.bme.hu/kepzes/targyak/VIEEAA00/en/) homework
+## [Basics of Programming 1](https://portal.vik.bme.hu/kepzes/targyak/VIEEAA00/en/) homework
 
 The implemented operations:
 
